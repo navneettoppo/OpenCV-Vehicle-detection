@@ -1,6 +1,7 @@
 # OpenCV-Vehicle-detection
 Different types of detection using opencv
 
+##runs at 50-60% accuracy
 
 ## Dependencies:
 + pip install numpy
